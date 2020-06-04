@@ -1,0 +1,51 @@
+site_name: 61st Cavalry Regiment
+# dev_addr: 192.168.1.127:5999
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/61st-Cavalry-Regiment
+nav:
+  - Home: 'index.md'
+  - Changelogs:
+      # - template: 'changelogs/template.md'
+      - v1.0.0: 'changelogs/v1.0.0.md'
+  - Classes: 'classes.md'
+theme:
+  name: 'material'
+  icon:
+    logo: material/library
+    repo: material/library
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - instant
+extra_css:
+  - 'stylesheets/extra.css'
+site_dir: ../site
+docs_dir: ./docs
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+      emoji_index: !!python/name:pymdownx.emoji.gemoji
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - admonition
+  - tables
+  - attr_list
+  - codehilite:
+      linenums: true
+  - toc:
+      permalink: true
