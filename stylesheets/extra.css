@@ -1,0 +1,66 @@
+:root{
+    --md-default-bg-color: #212121;
+    --md-default-fg-color: #F5F5F5;
+    --md-default-fg-color--light: grey;
+}
+
+.md-footer {
+	color: var(--md-default-fg-color);
+	background-color: var(--md-default-bg-color);
+}
+
+.md-typeset table:not([class]) th {
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset table:not([class]) {
+    box-shadow: 0 .3rem .5rem rgba(0,0,0,.4),0 0 .05rem rgba(0,0,0,.1);
+}
+
+.md-typeset code {
+ background-color:#424242 !important;
+ color: black !important;
+}
+
+.md-typeset h1{
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset hr{
+    border-bottom: .18rem dotted gray;
+}
+
+.md-nav__list {
+    background-color: var(--md-default-bg-color);
+}
+
+.md-nav__title {
+    background-color: var(--md-default-bg-color);
+    color:var(--md-default-fg-color);
+}
+
+.md-nav__title:before {
+    background-color: var(--md-default-bg-color);
+    color:var(--md-default-fg-color);
+}
+
+.linenos {
+    color: var(--md-default-fg-color);
+    background-color: #313131 !important;
+}
+
+.codehilite {
+    background-color: #424242 !important;
+} 
+
+.small {
+    width: 150px;
+}
+
+.xsmall {
+    width: 80px;
+}
+
+.tiny {
+    width: 35px;
+}
