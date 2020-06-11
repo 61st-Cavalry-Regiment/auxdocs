@@ -4,12 +4,12 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/61st-Cavalry-Regiment
-nav:
-  - Home: 'index.md'
-  - Changelogs:
-      # - template: 'changelogs/template.md'
-      - v1.0.0: 'changelogs/v1.0.0.md'
-  - Classes: 'classes.md'
+# nav:
+#   - Home: 'index.md'
+#   - Changelogs:
+#       # - template: 'changelogs/template.md'
+#       - v1.0.0: 'changelogs/v1.0.0.md'
+#   - Classes: 'classes.md'
 theme:
   name: 'material'
   icon:
@@ -24,6 +24,12 @@ extra_css:
   - 'stylesheets/extra.css'
 site_dir: ../site
 docs_dir: ./docs
+plugins:
+  - search
+  - awesome-pages:
+      filename: .index
+      collapse_single_pages: false
+      strict: false
 markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_png
