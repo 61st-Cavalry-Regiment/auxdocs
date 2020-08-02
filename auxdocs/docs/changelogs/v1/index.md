@@ -1,4 +1,4 @@
-# Aux V1.0.0
+# Aux V1
 
 **61st Aux Mod**  
 *by:* **X. Dover "Thunder"**  

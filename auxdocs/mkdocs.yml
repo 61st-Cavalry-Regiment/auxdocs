@@ -28,7 +28,7 @@ plugins:
   - search
   - awesome-pages:
       filename: .index
-      collapse_single_pages: false
+      collapse_single_pages: true
       strict: false
 markdown_extensions:
   - pymdownx.emoji:
