@@ -3,7 +3,7 @@
 **61st Aux Mod**  
 *by:* **X. Dover "Thunder"**  
 *changelog by:* **X. Dover "Thunder"**  
-*released:* **XX/XX/XXXX**  
+*released:* **08/16/2020**  
 
 ***With thanks to the R&D Team:***
 
