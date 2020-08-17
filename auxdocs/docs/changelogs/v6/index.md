@@ -29,9 +29,9 @@
 
     + ### Vehicle Additions
 
-        Give blackhawks resupply crates by default
-        Make all in one Rearm/Repair/Refuel vehicle
-        Make blackhawks be able to detect incoming missles
+        Give blackhawks resupply crates by default  
+        Make all in one Rearm/Repair/Refuel vehicle  
+        Make blackhawks be able to detect incoming missles  
 
     <!-- + ### Vehicle Changes -->
 
