@@ -31,6 +31,7 @@
 
         Give blackhawks resupply crates by default
         Make all in one Rearm/Repair/Refuel vehicle
+        Make blackhawks be able to detect incoming missles
 
     <!-- + ### Vehicle Changes -->
 
@@ -38,10 +39,12 @@
 
 ---
 
-<!-- + ## Misc
++ ## Misc
 
     + ### Additions
 
-    + ### Changes
+        More aviation patches
 
-    + ### Fixes -->
+    <!-- + ### Changes -->
+
+    <!-- + ### Fixes -->

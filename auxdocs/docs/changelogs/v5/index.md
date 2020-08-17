@@ -10,6 +10,10 @@
 + X. Dover "Thunder"
 + M. Mark "Mark"
 
+***Special Thanks***
+
++ B. Dover "Seejers" for textures
+
 ---
 
 !!! info ""
@@ -41,7 +45,7 @@
 
     + ### Additions
 
-        Add aviation pathces
+        Add aviation patches
 
     <!-- + ### Changes -->
 
